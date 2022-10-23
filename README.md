@@ -16,7 +16,11 @@ tiup --tag office playground
 
 ### STEP-3 配置database和表
 office、office1、office2
+
 ![Image 本地登录](TiDB/添加数据库.png)
+
+<img src="TiDB/添加数据库.png" width="100px" />
+
 ```
 # office
 
