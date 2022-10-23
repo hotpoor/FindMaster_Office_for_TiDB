@@ -128,4 +128,9 @@ CREATE TABLE `entities` (
 
 <img alt="编辑找回密码" src="TiDB/编辑找回密码.png" width="400px" />
 
+### STEP-11 性能监控和链式存储优化的极限
+
+<img alt="多人在线情况" src="TiDB/多人在线情况.png" width="400px" />
+
+
 
