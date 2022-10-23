@@ -87,5 +87,15 @@ CREATE TABLE `entities` (
 ) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8mb4;
 ```
 
+### STEP-4 移植FindMaster
+
+```
+# 添加findmaster api list
+
+# 替换原有mysql为tidb
+
+# 添加搜索功能
+
+```
 
 
