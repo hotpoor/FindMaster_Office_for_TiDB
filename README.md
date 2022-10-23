@@ -100,6 +100,29 @@ CREATE TABLE `entities` (
 
 <img alt="运行项目" src="TiDB/运行项目.png" width="400px" />
 
+### STEP-5 注册用户API
+
+<img alt="注册用户API" src="TiDB/注册用户API.png" width="400px" />
+
+### STEP-6 用户登录API
+
+<img alt="用户登录API" src="TiDB/用户登录API.png" width="400px" />
+
+### STEP-7 列表页
+
+<img alt="列表页" src="TiDB/列表页.png" width="400px" />
+
+### STEP-8 编辑页面
+
+<img alt="编辑页面" src="TiDB/编辑页面.png" width="400px" />
+
+### STEP-9 所见即所得
+
+<img alt="所见即所得" src="TiDB/所见即所得.png" width="400px" />
+
+### STEP-9 所见即所得
+
+<img alt="所见即所得" src="TiDB/所见即所得.png" width="400px" />
 
 
 
