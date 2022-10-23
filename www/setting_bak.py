@@ -94,10 +94,12 @@ settings = {
 }
 
 try:
-    import torndb as database
+    import torndb3 as database
     conn = database.Connection("127.0.0.1:4000", "office", "root", "")
     conn1 = database.Connection("127.0.0.1:4000", "office1", "root", "")
     conn2 = database.Connection("127.0.0.1:4000", "office2", "root", "")
     ring = [conn1, conn2]
 except:
     pass
+
+

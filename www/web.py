@@ -53,7 +53,7 @@ from controller import weixin_customservice
 
 from controller import findmaster_winni_app
 
-tornado.httpclient.AsyncHTTPClient.configure("tornado.curl_httpclient.CurlAsyncHTTPClient")
+# tornado.httpclient.AsyncHTTPClient.configure("tornado.curl_httpclient.CurlAsyncHTTPClient")
 
 application = tornado.web.Application([
     (r"/home/main",findmaster.MainHomeHandler),
