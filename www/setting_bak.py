@@ -63,15 +63,15 @@ settings = {
     "wss_port":8100,
     "LoginCode":"automove",
     "developers":[
-        "",#夏力维邮箱1020517891@qq.com
+        "e083424676854751ad3d590172539b18",#夏力维邮箱1020517891@qq.com
     ],
     "uri_mapping":{
-        "/"                 :"",#首页
-        "/mobile"           :"",#手机端首页
-        "/register"         :"",
-        "/login"            :"",
-        "/forget_pwd"       :"",
-        "/support"          :"",
+        "/"                 :"1a1bff508d054e7ab5ea70623399701f",#首页
+        "/mobile"           :"1a1bff508d054e7ab5ea70623399701f",#手机端首页
+        "/register"         :"f72eabff7f2c42daa6cc65d778457f2b",
+        "/login"            :"390b8a1df61e4723a9d75b8b80093110",
+        "/forget_pwd"       :"8d571e3cde494804bf5b72afcb00f400",
+        "/support"          :"862f586713e945e88273e79e9714e462",
     },
     # "msh_hollow":"",
     # "msh_hollow_data":"",

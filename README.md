@@ -120,9 +120,12 @@ CREATE TABLE `entities` (
 
 <img alt="所见即所得" src="TiDB/所见即所得.png" width="400px" />
 
-### STEP-9 所见即所得
+### STEP-10 编辑登录/注册/找回密码等页面
 
-<img alt="所见即所得" src="TiDB/所见即所得.png" width="400px" />
+<img alt="编辑登录" src="TiDB/编辑登录.png" width="400px" />
 
+<img alt="编辑注册" src="TiDB/编辑注册.png" width="400px" />
+
+<img alt="编辑找回密码" src="TiDB/编辑找回密码.png" width="400px" />
 
 
